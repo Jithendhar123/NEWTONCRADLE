@@ -19,8 +19,8 @@ class Bob {
     translate(pos.x, pos.y);
     rectMode(CENTER);
     strokeWeight(3)
-    stroke("black");
-    fill("purple");
+    stroke("gold");
+    fill("gold");
     ellipse(0,0, this.radius,this.radius);
     pop();
   }
